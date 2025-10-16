@@ -62,7 +62,7 @@
   
   <!-- 应用所有效果的图片 -->
   <image x="50" y="30" width="700" height="540" 
-         xlink:href="/images/iamge1.jpg"
+         xlink:href="https://raw.githubusercontent.com/fgm0020/western_portrait/ac019e7338168259d949b8e0a5c7c927c15c9e07/images/image1"
          filter="url(#westernStyle)"
          preserveAspectRatio="xMidYMid slice"/>
   
